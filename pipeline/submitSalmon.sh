@@ -4,7 +4,7 @@
 set -eu
 
 # vars
-inx=/home/nicolas/indices/Pabies1.0-all-phase.gff3.CDSandLTR-TE_salmon_v.1.8.0
+inx=~/indices/Pabies1.0-all-phase.gff3.CDSandLTR-TE_salmon_v.1.8.0
 in=/data/raw_data/trimmomatic/
 out=~/salmon
 
